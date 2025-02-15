@@ -1,5 +1,6 @@
 # Elite-tech-Intern
 Cyber Security Internship Tasks
+
 This repository includes the tasks I completed during my virtual internship in Cyber Security.
 
 Each task focuses on a different aspect of cybersecurity and demonstrates various techniques and solutions.
